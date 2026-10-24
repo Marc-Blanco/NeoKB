@@ -5,3 +5,10 @@
 It has different modes and writable functions, It has a mouse incorporated to never move your fingers away from the keys and a potenciometer to control the volume or whatever you would like it to do. A versatile multifunctional comfortable keyboard.
 
 ### BOM: 
+| Item | Qty | Supplier | Cost/item | Total Cost | link |
+| --- | --- | --- | --- | --- | --- |
+| Raspberry Pi Pico | 2 | KUBII | $5.37 | $10.74 | https://www.kubii.com/es/microcontroladores/3205-1639-raspberry-pi-pico-w-h-wh-3272496311589.html#/version_pico-pico |
+| Trackball sensor | 1 | MusRock | $9.97 | $9.97 | https://www.amazon.com/Trackball-360-Degree-Rotation-BlackBerry-Breakout/dp/B0GKFGNC8S?crid=1CO8YQCV54AKE&dib=eyJ2IjoiMSJ9.18rAVinrqTohvHfsupcKaHjYAskeK8hsWJgHdPv9yO2y4OlZiC1-EIhue1jALwilmcLU7EHLJ-Zu5RVopirPmQGzHz6XBdemFKgaiXzNI3Y.iC7uxYI_3l1AeEnnQa2uwib01CTnnOSsnRklyWU781Y&dib_tag=se&keywords=trackball+breakout&qid=1791468810&sprefix=trackball+break%2Caps%2C343&sr=8-1 |
+| Switches | 50 | Aliexpress? | $0.10 | $5.00 | https://www.aliexpress.com/ssr/300000512/BundleDealsDutyCovered?spm=a2g0o.productlist.main.8.5d4c55e9M10oyi&businessCode=guide&productIds=1005012943053796%3A12000059828315871&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012943053796%7C_p_origin_prod%3A&pvid=1eb1c5b9-ddc8-4fef-b824-7e70e77da587 |
+| PCB | 1 | JLBPCB | $40.00 | $40.00 | https://cart.jlcpcb.com/shopcart/cart/ |
+| Estimated total shipping | 1 |  |  | $26.59 |  |
